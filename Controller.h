@@ -1,8 +1,8 @@
 #ifndef CONTROLLER_H
 #define CONTROLLER_H
 #include "ColorDetector.h"
-#include <opencv2\opencv.hpp>
-#include <opencv2\highgui\highgui.hpp>
+#include <opencv2/opencv.hpp>
+#include <opencv2/highgui/highgui.hpp>
 #include <cstring>
 
 class ColorDetectController 
